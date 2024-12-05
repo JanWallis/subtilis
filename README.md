@@ -39,6 +39,6 @@ Ther are several parameters within the code in order to adjust for the input ima
    - Cells that are adjacent to each other may be mistakenly counted as a single connected structure, rather than as individual cells.
 
 3. **Error Margin**:  
-   Users should account for a potential error margin of **±25%** in the reported cell counts due to the aforementioned limitations in detecting individual cells in complex biofilm structures.
+   Users should account for a potential error margin of **±10-15%** in the reported cell counts due to the aforementioned limitations in detecting individual cells in complex biofilm structures.
 
 It is recommended to validate the results with independent methods for critical applications.
